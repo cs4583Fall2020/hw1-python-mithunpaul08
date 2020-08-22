@@ -13,7 +13,7 @@ class InvertedIndex:
         return ["Doc1", "Doc4"]
 
     def q5_2(self,query):
-        # add your code here
+        # add your code heredddd
         return ["Doc1","Doc2","Doc3","Doc4"]
 
 
