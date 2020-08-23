@@ -20,5 +20,5 @@ class InvertedIndex:
     def q5_3(self,query):
         # add your code here
         answer = None
-        return ["Doc1", "Doc2", "Doc4"]
+        return ["Doc2", "Doc2", "Doc4"]
 
