@@ -90,5 +90,5 @@ have been provided to you on github after the pull request.
 Assignments that pass all, and with the corresponding code implementing the correct logic, will receive at least 95% of the
 possible points.
 
-To get the remaining of the points, your code will be checked for things like readability and ofcourse fraud.
+To get the remaining of the points, your code will be checked for things like readability and code quality.
 
