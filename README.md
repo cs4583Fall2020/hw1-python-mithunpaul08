@@ -18,7 +18,7 @@ GitHub repository to hold your work.
 - Go to the repository that GitHub Classroom created for you. It should look like
 `https://github.com/cs4583fall2020/python-hw1-<your-username>`, where
 `<your-username>` is your GitHub username. 
-[Create a branch through the GitHub interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/).
+- Create a [branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) through the GitHub interface.
 - Name your `<branch>` as `yourlastname_yourfirstname_dev` (**very important , do NOT name it anything else**)
 - Clone the repository to your local machine and checkout the branch you
 just created. Your command must be similar to :
