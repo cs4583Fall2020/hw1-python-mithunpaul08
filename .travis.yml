@@ -5,5 +5,6 @@ before_install:
   - python --version
   - pip install -U pip
   - pip install -U pytest
-  - pip install .
 script: pytest
+- cd $HOME
+- pytest $TRAVIS_BUILD_DIR
