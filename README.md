@@ -32,7 +32,6 @@ You will implement one function each for each of the sub questions of qns 5, Eg:
 the class `InvertedIndex`(src/main/python/edu/arizona/cs/invertedindex.py). These functions should return the documents in the right order , as asked in the question. 
 
 Also, you **should not edit** these files:
-- `runAllTests.sh`
 - `.travis.yml`
 - `src/main/resources/Docs.txt`
 - `src/test/python/edu/arizona/cs/test_q5.py`
