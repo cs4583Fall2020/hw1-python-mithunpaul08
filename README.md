@@ -15,7 +15,7 @@ Before you start editing any code, you will need to create a new branch in your
 GitHub repository to hold your work.
 
 1. Go to the repository that GitHub Classroom created for you. You should have received an email/link and you are most probably reading this there. It should look like
-`https://github.com/cs4583fall2020/python-hw3-<your-username>`, where
+`https://github.com/cs4583fall2020/python-hw1-<your-username>`, where
 `<your-username>` is your GitHub username. 
 [Create a branch through the GitHub interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/).
 2. Name your `<branch>` as `yourlastname_yourfirstname_dev` (**very important , do NOT name it anything else**)
