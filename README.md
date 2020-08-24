@@ -4,7 +4,9 @@ You will need to set up an appropriate coding environment on whatever computer
 you expect to use for this assignment.
 Minimally, you should install:
  
+ <div>
 * <a href="https://git-scm.com/downloads/" target="_blank">git</a>
+ <div>
 * [Python (3.8 or higher)](https://www.python.org/)
 * [Pytest](https://docs.pytest.org/en/stable/)
 
