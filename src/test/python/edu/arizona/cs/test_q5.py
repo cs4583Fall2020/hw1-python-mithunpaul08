@@ -13,7 +13,7 @@ class TryTesting(TestCase):
 
         assert (ans_qn5_1[0]) is not None
         assert (type(ans_qn5_1[0])) is str
-        assert (ans_qn5_1[0]) == "Doc2"
+        assert (ans_qn5_1[0]) == "Doc1"
 
         assert (ans_qn5_1[1]) is not None
         assert (type(ans_qn5_1[1])) is str
